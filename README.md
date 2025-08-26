@@ -28,6 +28,6 @@ This is a dir that contains all of the images categorized by color. (i.e. purple
 
 ---
 
-I only take credit for the images held within the `by-color/made-by-me` dir. \
+I only take credit for the images held within the `by-type/made-by-me` dir. \
 All rights are retained by the original owners of their respective images.
 If you like an image, please do your best to forward your support to them, and make sure you're following their licenses.
